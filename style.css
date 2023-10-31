@@ -41,7 +41,7 @@ a {
     justify-content: center;
     align-items: center;
     gap: 40px;
-    padding: 90px;
+    padding: 60px 80px;
 }
 
 .column {
@@ -104,3 +104,23 @@ h3 {
     text-align: center;
     font-size: 20px;
 }
+
+.third-part {
+    background-color: #E5E7EB;
+    padding: 25px 150px;
+}
+
+.third-part .quote {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+}
+
+.third-part .name {
+    text-align: end;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
